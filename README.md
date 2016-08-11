@@ -1,2 +1,2 @@
 # mvn-repo
-My personal maven repository.
+mvn-repo
