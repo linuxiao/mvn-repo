@@ -14,7 +14,7 @@ dependencies {
   //cbc加密解密
   compile 'cn.com.fujica:des:1.0'  
   //rsa 加密解密
-  complie 'cn.com.fujica:rsa:1.0'
+  compile 'cn.com.fujica:rsa:1.0'
 } 
 ```
 ## 使用
